@@ -1,0 +1,30 @@
+body {background-image: url("../Imagens/BackgroundJV.jpg");}
+
+#Titulo1{
+    text-align: center;
+    color: #FBFBF9;
+}
+
+#Q1, #Q2, #Q3, #Q4, #Q5, #Q6, #Q7, #Q8, #Q9{
+    background-repeat: no-repeat;
+    height: 150px;
+    width: 150px;
+    border: 1px solid #FBFBF9;
+}
+
+fieldset {
+    margin: auto;
+    height: 460px;
+    width: 400px;
+
+}
+
+table, td {
+    border: 1px #FBFBF9;
+    background-color: #050301;
+}
+
+p {
+    color: #FBFBF9;
+    text-align: center;
+}
